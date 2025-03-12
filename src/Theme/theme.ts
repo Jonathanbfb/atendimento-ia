@@ -11,7 +11,7 @@ const theme = createTheme({
       main: "#00C2CB", // Verde-água secundário
     },
     background: {
-      default: "#B9F3FC", // Cor do fundo
+      default: "#F3FCFD", // Cor do fundo
       paper: "#FFFFFF", // Fundo dos cards (como o Paper)
     },
     text: {
