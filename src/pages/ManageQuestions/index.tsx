@@ -78,6 +78,7 @@ const RiskAssessment: React.FC = () => {
     setRiskScore(totalRisk);
   };
 
+  
   return (
     <Container maxWidth="md">
       <Box sx={{ bgcolor: "#F7FAFC", p: { xs: 2, sm: 4 }, borderRadius: 2, boxShadow: 2, mt: 5 }}>
